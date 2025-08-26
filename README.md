@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.jpg" alt="banner" width="100%" />
+</p>
 
-<!--
-**IDaZiI/IDaZiI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Konnichiwa</h3>
 
-Here are some ideas to get you started:
+<p align="center">My nickname is <b>DaZi</b>.
+I'm a student of NSTU. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+<h3 align="center"> Connect</h3>
+
+<p align="center">
+  <a href="https://t.me/lDaZil">
+    <img src="https://img.shields.io/badge/Telegram-@lDaZil-black?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
