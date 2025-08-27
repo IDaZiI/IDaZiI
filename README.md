@@ -2,10 +2,10 @@
   <img src="https://i.pinimg.com/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.jpg" alt="banner" width="100%" />
 </p>
 
-<h3 align="center">Konnichiwa</h3>
+<h3 align="center">Welcome</h3>
 
 <p align="center">My nickname is <b>DaZi</b>.
-I'm a student of NSTU. </p>
+I'm a student. </p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
